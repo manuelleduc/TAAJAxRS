@@ -39,7 +39,7 @@ Using this example, select an example of RestServices you could build.
 
 You can have three choices. 
 
-1. You can re-implement [swapi](https://swapi.co/)
+1. You can re-implement [swapi](https://swapi.co/) or [pokéapi](https://pokeapi.co/)
 
 2. You can provide a rest access within the [Borg calendar](https://github.com/mikeberger/borg_calendar). In this case, you need to install the [lombok tool](https://projectlombok.org/) for your IDE .
 
