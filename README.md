@@ -22,7 +22,7 @@ Just build the project:
     
 and launch the server:
 
-    java -jar target/server-test-1.0-SNAPSHOT.jar
+    mvn exec:java -Dexec.mainClass="fr.istic.taa.jaxrs.RestServer" 
    
 You can test the service using 
 to get a person
